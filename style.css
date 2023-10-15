@@ -32,7 +32,7 @@ body {
  
 }
 .image, .Contact, .Skills, .Language, .Hobbies, .title, 
-.Summary, .Experience, .Education, .project {
+.Summary, .Education, .Reference {
     margin-bottom: 30px;
 }
 .h2 {
